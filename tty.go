@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"./ricochet"
+	"github.com/yawning/ricochet"
 	"golang.org/x/crypto/ssh/terminal"
 )
 
