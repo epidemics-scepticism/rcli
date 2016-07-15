@@ -57,7 +57,7 @@ import (
 	"encoding/json"
 
 	"github.com/yawning/bulb"
-	"./ricochet"
+	"github.com/yawning/ricochet"
 )
 
 var (
